@@ -27,3 +27,32 @@ Recompile with: `gcc main.c -lpdcurses -o main.exe`
 </br>
 
 Run with: `./main` or `./main.exe` 
+
+## 🛠️ Technologies
+<img 
+    align="left"
+    alt="C"
+    title="C"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+/>
+<img 
+    align="left"
+    alt="Ubuntu"
+    title="Ubuntu"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"
+/>
+<img 
+    align="left"
+    alt="Terminal"
+    title="Ncurses (Console UI)"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
+/>
+
+<br/>
+
