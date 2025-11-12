@@ -27,6 +27,9 @@ Recompile with: `gcc main.c -lpdcurses -o main.exe`
 </br>
 
 Run with: `./main` or `./main.exe` 
+<br/>
+<br/>
+<br/>
 
 ## 🛠️ Technologies
 <img 
